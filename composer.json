@@ -1,0 +1,17 @@
+{
+  "autoload": {
+    "psr-4": {
+      "pbierans\\scoring\\": "src/pbierans/scoring/src"
+    }
+  },
+  "name": "pbierans/scoring",
+  "authors": [
+    {
+      "name": "pbierans",
+      "email": "p.bierans@atenekom.eu"
+    }
+  ],
+  "require": {
+    "phpunit/phpunit": "^8.3"
+  }
+}
